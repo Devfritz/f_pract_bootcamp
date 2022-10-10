@@ -1,4 +1,4 @@
-import 'package:f_pract_bootcamp/quizzer/question-model.dart';
+import 'package:f_pract_bootcamp/4-quizzer/question-model.dart';
 
 class ListQuestion {
   int _numQuestion = 0;
